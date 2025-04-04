@@ -1,10 +1,8 @@
-Module_02_PHIBOT25159_PTO2503_Phillip-Botha_SDF01
-
 # My First Repo 🚀
 
 # 👋 Hi, I'm Phillip-Rossouw Botha
 
-🌱 Student Software Developer | 🚀 Web-Hosting Technician | Gym Rat
+🌱 Student Software Developer | 🚀 Web-Hosting Technician | :weight_lifter: Gym Rat
 
 ---
 
@@ -14,6 +12,7 @@ Module_02_PHIBOT25159_PTO2503_Phillip-Botha_SDF01
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and giving world class support to my clients.
 - 🔥 Looking forward to learning the basics of coding.
+- 
 
 ---
 
@@ -74,5 +73,3 @@ Module_02_PHIBOT25159_PTO2503_Phillip-Botha_SDF01
 ## 🚀 Fun Fact
 
 (fourleafclover) I have a greenthumb 
-
----
