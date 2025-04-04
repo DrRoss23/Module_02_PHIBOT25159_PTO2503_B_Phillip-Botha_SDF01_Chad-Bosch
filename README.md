@@ -12,8 +12,6 @@
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and giving world class support to my clients.
 - 🔥 Looking forward to learning the basics of coding.
-- Active Listening
-- Process Documentation
 
 ---
 
@@ -38,8 +36,8 @@
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
-- Active Listening
-- Process Documentation
+- 🦻 Active Listening
+- 📁 Process Documentation
 
 ---
 
@@ -75,4 +73,4 @@
 
 ## 🚀 Fun Fact
 
-I have a greenthumb and love planting vegtables and flowers
+🍀 I have a greenthumb and love planting vegtables and flowers
