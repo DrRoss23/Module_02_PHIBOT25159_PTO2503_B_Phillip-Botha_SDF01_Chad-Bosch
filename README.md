@@ -12,7 +12,6 @@
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and giving world class support to my clients.
 - 🔥 Looking forward to learning the basics of coding.
-- 
 
 ---
 
@@ -65,11 +64,11 @@
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DrRoss23)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/phillip-rossouw-botha-0a0552214)  
-📧 Email: [youremail@example.com](mailto:philliprossouw909@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/phillip-rossouw-botha)  
+📧 Email: [philliprossouw909@gmail.com](mailto:philliprossouw909@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-(fourleafclover) I have a greenthumb 
+I have a greenthumb and love planting vegtables and flowers
