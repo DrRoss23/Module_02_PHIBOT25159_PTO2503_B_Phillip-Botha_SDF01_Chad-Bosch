@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Phillip-Rossouw Botha
 
-🌱 Student Software Developer | 🚀 Web-Hosting Technician | :weight_lifter: Gym Rat
+🌱 Student Software Developer | 🚀 Web-Hosting Technician | Gym Rat
 
 ---
 
@@ -36,6 +36,8 @@
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
+- Active Listening – Understanding client concerns fully before troubleshooting.
+- Process Documentation – Writing clear internal guides for team efficiency.
 
 ---
 
@@ -64,7 +66,7 @@
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DrRoss23)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/phillip-rossouw-botha)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillip-rossouw-botha/)  
 📧 Email: [philliprossouw909@gmail.com](mailto:philliprossouw909@gmail.com)
 
 ---
