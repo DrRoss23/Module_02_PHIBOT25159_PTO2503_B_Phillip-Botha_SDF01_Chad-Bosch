@@ -71,11 +71,14 @@
 
 ---
 
-## 🏆 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
----
-
 ## 🚀 Fun Fact
 
 🍀 I have a greenthumb and love planting vegtables and flowers
+
+---
+
+## 🏆 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrRoss23&show_icons=true&theme=radical)
+
+---
