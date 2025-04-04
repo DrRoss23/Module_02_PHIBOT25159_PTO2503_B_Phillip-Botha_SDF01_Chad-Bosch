@@ -36,8 +36,8 @@
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
-- Active Listening – Understanding client concerns fully before troubleshooting.
-- Process Documentation – Writing clear internal guides for team efficiency.
+- Active Listening
+- Process Documentation
 
 ---
 
