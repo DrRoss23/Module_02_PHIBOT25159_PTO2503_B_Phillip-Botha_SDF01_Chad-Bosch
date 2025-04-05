@@ -1,4 +1,4 @@
-# My First Repo 🚀
+# The First Push 🚀
 
 # 👋 Hi, I'm Phillip-Rossouw Botha
 
@@ -6,6 +6,9 @@
 
 ---
 
+# Welocome to the Origin of My Dev Story 🧑‍💻📓🌱🚀✨
+
+---
 ## 🎯 About Me
 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
