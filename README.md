@@ -100,7 +100,7 @@
 
 ## 🚀 Fun Facts
 
-- 🍀 I have a greenthumb and love planting vegtables and flowers
+- 🍀 I have a greenthumb and love planting vegetables and flowers
 - 🏋️‍♂️ I'm a gym enthusiast and always pushing for new personal bests
 - 🎵 I enjoy listening to all kinds of music, especially when coding
 - 📚 I’m passionate about continuous learning, always diving into new topics
