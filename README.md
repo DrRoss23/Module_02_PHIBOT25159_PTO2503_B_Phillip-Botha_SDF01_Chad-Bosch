@@ -72,7 +72,6 @@
 
 🔹 **Description:** My first project using GitHub to manage files.  
 🔹 **Status:** ✅ Completed
-
 🔹 **Link:** " https://github.com/DrRoss23/Module_02_PHIBOT25159_PTO2503_Phillip-Botha_SDF01 "
 
 ### **2️⃣ Personal Portfolio** _(Coming Soon!)_
@@ -80,6 +79,7 @@
 🔹 **Description:** A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
 🔹 **Status:** Not started
+
 
 
 ---
