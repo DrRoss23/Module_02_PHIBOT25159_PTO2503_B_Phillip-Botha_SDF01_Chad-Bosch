@@ -81,6 +81,7 @@
 🔹 **Technologies:** HTML, CSS
 🔹 **Status:** Not started
 
+
 ---
 
 ## 📚 Learning Goals
