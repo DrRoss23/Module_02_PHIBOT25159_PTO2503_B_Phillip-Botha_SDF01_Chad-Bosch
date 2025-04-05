@@ -1,10 +1,10 @@
 # The First Push 🚀
-### Welcome to the Origin of My Dev Story🧑‍💻📓🌱🚀✨
 
 # 👋 Hi, I'm Phillip-Rossouw Botha
 
 🌱 Student Software Developer | 🚀 Web-Hosting Technician | 💪 Gym Rat | 🎮 Gamer 
 
+### Welcome to the Origin of My Dev Story🧑‍💻📓🌱🚀✨
 ---
 
 ## 🎯 About Me
