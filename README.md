@@ -1,7 +1,6 @@
 # The First Push 🚀
 
-# Welcome to the Origin of My Dev Story 
-## 🧑‍💻📓🌱🚀✨
+### Welcome to the Origin of My Dev Story🧑‍💻📓🌱🚀✨
 
 # 👋 Hi, I'm Phillip-Rossouw Botha
 
