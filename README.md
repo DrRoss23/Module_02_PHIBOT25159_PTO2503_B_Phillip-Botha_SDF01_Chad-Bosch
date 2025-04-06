@@ -71,7 +71,7 @@
 ### **1️⃣ My First Repo**
 
 🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed - "https://github.com/DrRoss23/Module_02_PHIBOT25159_PTO2503_Phillip-Botha_SDF01_Chad-Bosch"
+🔹 **Status:** ✅ Completed - "https://github.com/DrRoss23/Module_02_PHIBOT25159_PTO2503_Group-B_Phillip-Botha_SDF01_Chad-Bosch"
 
 ### **2️⃣ Personal Portfolio** _(Coming Soon!)_
 
